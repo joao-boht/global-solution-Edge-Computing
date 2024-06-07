@@ -40,7 +40,7 @@ Este projeto visa monitorar a saúde dos oceanos e a poluição utilizando a pla
 
 O projeto pode ser simulado no Wokwi. Acesse o link abaixo para visualizar a montagem do circuito e testar o código.
 
- - [Wokwi Simulação]  https://wokwi.com/projects/399273108928234497
+ - [Wokwi Simulação](https://wokwi.com/projects/399273108928234497)
 
 ## Resultados Esperados
 
