@@ -42,6 +42,10 @@ O projeto pode ser simulado no Wokwi. Acesse o link abaixo para visualizar a mon
 
  # [Wokwi Simulação]  https://wokwi.com/projects/399273108928234497
 
+
+ # link do video https://youtu.be/D7QnRHwGkAQ
+
+ 
 ## Resultados Esperados
 
 Ao executar o projeto, o display LCD alternará entre a exibição da temperatura, umidade e pH da água em intervalos de 5 segundos. Este monitoramento contínuo permite uma avaliação em tempo real da qualidade da água, ajudando a identificar e responder rapidamente a mudanças ambientais.
