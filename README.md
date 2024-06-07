@@ -4,7 +4,7 @@
 
 Este projeto visa monitorar a saúde dos oceanos e a poluição utilizando a plataforma Arduino. O sistema mede parâmetros críticos como temperatura, umidade e pH da água, exibindo essas informações em um display LCD 16x2. Esta solução é projetada para ser acessível e eficaz, ajudando pesquisadores, ambientalistas e comunidades costeiras a detectar e responder rapidamente a mudanças na qualidade da água.
 
-# Componentes Utilizados
+## Componentes Utilizados
 
 * Arduino Uno
 * Sensor de Temperatura e Umidade DHT22
@@ -36,11 +36,11 @@ Este projeto visa monitorar a saúde dos oceanos e a poluição utilizando a pla
 * **SCL (módulo I2C)** → A5 (Arduino)
 
 
-# Simulação no Wokwi
+## Simulação no Wokwi
 
 O projeto pode ser simulado no Wokwi. Acesse o link abaixo para visualizar a montagem do circuito e testar o código.
 
- # [Wokwi Simulação]  https://wokwi.com/projects/399273108928234497
+ - [Wokwi Simulação](https://wokwi.com/projects/399273108928234497)
 
 
  # link do video https://youtu.be/D7QnRHwGkAQ
@@ -63,6 +63,8 @@ Ao executar o projeto, o display LCD alternará entre a exibição da temperatur
 
 Este projeto é uma ferramenta poderosa para monitorar a saúde dos oceanos e a poluição de maneira eficiente e acessível. A implementação com Arduino e sensores permite uma coleta de dados precisa e exibição em tempo real, essencial para a preservação ambiental.
 
-Joao Boht - rm 558690
-Pedro Certo - rm 556268
-Fabiano Zague - rm 555524
+## Participantes
+
+- Joao Boht - rm 558690
+- Pedro Certo - rm 556268
+- Fabiano Zague - rm 555524
